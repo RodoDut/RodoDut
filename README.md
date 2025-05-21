@@ -15,6 +15,14 @@
   <img src="https://komarev.com/ghpvc/?username=RodoDut&style=flat-square&color=blue" alt=""/>
 </div>
 
+<hr class="mi-regla">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hczDQdBHbN5L2/giphy.gif?cid=ecf05e476r0wtv5bklo6cc0cezqvgpb88aqm7764qzhz7zng&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="700" height="200"/>
+</div>
+
+<hr class="mi-regla">
+
 <p>
   Proactive and dynamic professional with 15 years of experience in industrial maintenance and a solid transition to software development. Three-year degree in Computer Science and have diplomas in Full-Stack Web Development, Mobile Programming (Android, Flutter), and Embedded Systems.
 App development with AI in Python. Strong analytical, problem-solving, and process optimization skills.
