@@ -27,15 +27,17 @@
 
 <hr class="mi-regla">
 
-<p>
-  Proactive and dynamic professional with 15 years of experience in industrial maintenance and a solid transition to software development. Three-year degree in Computer Science and have diplomas in Full-Stack Web Development, Mobile Programming (Android, Flutter), and Embedded Systems.
-App development with AI in Python. Strong analytical, problem-solving, and process optimization skills.
+## About Me
 
-</p>
-<p>
+Hello! I’m **Rodolfo Duttweiler**, a proactive and dynamic professional with **15 years** of industrial maintenance experience at General Motors and a solid transition into full‑stack web development.  
+I hold a three‑year degree in Computer Science and diplomas in Full‑Stack Web Development, Mobile Programming (Android, Flutter), and Embedded Systems.  
+I’m currently working on AI‑powered Python apps and e‑commerce sites using WordPress.  
+
 Profesional proactivo y dinámico, con 15 años de experiencia en mantenimiento industrial y una transición sólida hacia el desarrollo de software. Formación en Ingeniería en Informática (3 años) y diplomaturas en Desarrollo Web Full Stack, Programación Móvil (Android, Flutter) y Sistemas Embebidos.
 Desarrollo de apps con IA en Python. Fuerte capacidad de análisis, resolución de problemas y optimización de procesos.  
-</p>
+
+## What i'm doing
+
 <ul>
   <li>
 - 🔭 I’m currently working on app development with AI in Python, and E-Commerce pages using Wordpress.    
@@ -68,3 +70,14 @@ Desarrollo de apps con IA en Python. Fuerte capacidad de análisis, resolución 
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
+
+<hr>
+
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=RodoDut&theme=dark&border_radius=7.5&short_numbers=true" alt="GitHub Streak" /></a>
+
+<hr>
+
+## Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RodoDut&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
