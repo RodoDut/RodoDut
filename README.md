@@ -85,6 +85,3 @@ Desarrollo de apps con IA en Python. Fuerte capacidad de análisis, resolución 
 ---
 
 ### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
